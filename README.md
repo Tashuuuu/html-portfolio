@@ -1,2 +1,2 @@
 # html-portfolio
-This website is only HTML website which contains some basic projects.
+This website is only an HTML website that contains some basic projects.
